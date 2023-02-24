@@ -27,7 +27,7 @@ env:
 #edit your values here
   ENVIRONMENT_URL: 'https://pbatdev.crm5.dynamics.com/'
   CLIENT_ID: 'be94639d-8045-4abd-8d6e-cc07b9d04f11'
-  TENANT_ID: '5e31566f-6639-413c-b61b8b4e4f7b52c0'
+  TENANT_ID: '5e31566f-6639-413c-b61b-8b4e4f7b52c0'
 
 jobs:
   export-from-dev:
