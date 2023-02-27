@@ -11,7 +11,7 @@ jobs:
     uses: ./.github/workflows/release-solution-to-sit-with-inputs.yml
     with:
       #You can specify the solution name here
-      solution_name: ALMLab
+      solution_name: PBAT_Customizations
       #Update your values here
       BUILD_ENVIRONMENT_URL: https://pbatdev.crm5.dynamics.com
       PRODUCTION_ENVIRONMENT_URL: https://pbatsit.crm5.dynamics.com
